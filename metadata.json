@@ -1,0 +1,6 @@
+{
+  "name": "Local Broker IDE",
+  "description": "A mobile-first Web Application acting as a Local Broker IDE for CodeIgniter projects, featuring client-side only JSZip file handling and AI chat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
